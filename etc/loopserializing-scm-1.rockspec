@@ -1,5 +1,5 @@
 package = "loopserializing"
-version = "1.0-1"
+version = "scm-1"
 source = {
 	url = "https://github.com/renatomaia/loop-serializing/archive/master.zip",
 	dir = "loop-serializing-master",
